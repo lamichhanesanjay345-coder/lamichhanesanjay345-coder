@@ -1,100 +1,100 @@
 # 👋 Hi, I'm Sanjay Lamichhane
 
-### 🚀 Frontend Developer • React Developer • AI Enthusiast
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Laravel+Learner;AI+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B%EF%B8%8F;AI+Enthusiast+%F0%9F%A4%96;Laravel+Learner+%F0%9F%94%A5;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
   <a href="https://github.com/lamichhanesanjay345-coder">
-    <img src="https://komarev.com/ghpvc/?username=lamichhanesanjay345-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=lamichhanesanjay345-coder&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
   <a href="https://github.com/lamichhanesanjay345-coder?tab=followers">
-    <img src="https://img.shields.io/github/followers/lamichhanesanjay345-coder?label=Followers&style=flat" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/lamichhanesanjay345-coder?label=Followers&style=flat" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-I'm **Sanjay Lamichhane**, a passionate developer from 🇳🇵 **Nepal** who enjoys building modern, useful, and interactive web applications.
+I'm **Sanjay Lamichhane**, a passionate **Frontend Developer from Nepal 🇳🇵** who enjoys creating modern, responsive, and user-friendly web applications.
+
+I'm interested in **React, JavaScript, AI, and full-stack development**. I enjoy learning new technologies and turning ideas into real projects.
 
 * 🔭 Currently working on **AI & Web Development**
 * 🌱 Currently learning **Laravel**
-* ⚛️ Interested in **React & Frontend Development**
-* 🤝 Looking to collaborate with **IT companies and developers**
-* 💬 Ask me about **React, JavaScript, HTML, CSS**
-* 🚀 Always learning something new
-* ⚡ Fun fact: **I love turning ideas into code!**
+* ⚛️ Passionate about **React & Frontend Development**
+* 🤖 Exploring **Artificial Intelligence**
+* 💬 Ask me about **React, JavaScript, HTML & CSS**
+* 🤝 Open to **collaboration and interesting projects**
+* 🎯 Goal: Become a professional **Full-Stack Developer**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 My Tech Stack
 
-### 💻 Languages
+### Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,js,php,html,css" />
-</p>
-
-### ⚛️ Frontend
-
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🔧 Backend & Database
+### Backend & Database
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mssql" />
 </p>
 
-### ☁️ Tools & Platforms
+### Programming & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,aws" />
 </p>
 
 ---
 
-## 🚀 What I'm Currently Learning
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,js,ai" />
+</p>
 
 ```text
-React.js          ████████████████████░░   90%
-JavaScript        ███████████████████░░░   85%
-HTML & CSS        ██████████████████████   95%
-PHP               ████████████████░░░░░░   75%
-Laravel           ████████████░░░░░░░░░░   60%
-AI                ███████████░░░░░░░░░░░   55%
+Frontend Development     ████████████████████░░
+React.js                 ██████████████████░░░░
+JavaScript               █████████████████░░░░░
+PHP                      ███████████████░░░░░░░
+Laravel                  ████████████░░░░░░░░░░
+Artificial Intelligence  ███████████░░░░░░░░░░░
 ```
 
 ---
 
-## 📌 Featured Projects
+## 🌟 Featured Projects
 
-> 🚧 More projects are coming soon...
+### ⚛️ React Projects
 
-### 🌐 Web Development Projects
+Building modern and interactive applications using React.js.
 
-* 🔹 **Responsive Web Applications**
-* 🔹 **React Projects**
-* 🔹 **PHP & MySQL Applications**
-* 🔹 **Laravel Projects**
+### 🌐 PHP & MySQL Projects
+
+Developing database-driven web applications using PHP and MySQL.
+
+### 🔥 Laravel Projects
+
+Currently learning Laravel and building backend applications.
 
 ### 🤖 AI Projects
 
-* 🔹 AI-powered applications
-* 🔹 AI automation experiments
-* 🔹 AI + Web Development projects
+Exploring how AI can be integrated into modern web applications.
 
-📂 **Check my repositories:**
-👉 [GitHub Repositories](https://github.com/lamichhanesanjay345-coder?tab=repositories)
+> 🚧 More projects coming soon...
+
+🔗 **[View All My Repositories →](https://github.com/lamichhanesanjay345-coder?tab=repositories)**
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lamichhanesanjay345-coder&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -114,12 +114,12 @@ AI                ███████████░░░░░░░░░�
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lamichhanesanjay345-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lamichhanesanjay345-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lamichhanesanjay345-coder&theme=tokyo-night&hide_border=true" />
@@ -127,59 +127,49 @@ AI                ███████████░░░░░░░░░�
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:lamichhanesanjay345@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/lamichhanesanjay345-coder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
----
-
-## 💡 Developer Mindset
-
-> **"Don't just write code. Build something that solves a problem."**
-
-I believe the best way to learn development is to **build, break, debug, and build again.** 🚀
+📧 **Email:** [lamichhanesanjay345@gmail.com](mailto:lamichhanesanjay345@gmail.com)
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 My 2026 Goals
+
+* ⚛️ Master **React.js**
+* 🟨 Improve **JavaScript**
+* 🔥 Become strong in **Laravel**
+* 🤖 Build useful **AI applications**
+* 🌐 Build complete **full-stack projects**
+* 🤝 Collaborate with developers
+* 💼 Gain professional **IT experience**
+* 🌍 Contribute to **Open Source**
+
+---
+
+## 💡 My Philosophy
+
+> ### **Learn → Build → Break → Fix → Improve → Repeat 🔁**
+
+I believe that every bug is an opportunity to learn something new.
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lamichhanesanjay345-coder/lamichhanesanjay345-coder/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Become a stronger **React Developer**
-* ⚡ Master **JavaScript**
-* 🔥 Learn **Laravel deeply**
-* 🤖 Build meaningful **AI projects**
-* 🌐 Create more full-stack applications
-* 🤝 Collaborate with other developers
-* 💼 Get experience working with an **IT company**
-* 📚 Contribute more to **Open Source**
-
----
-
-<h3 align="center">
-  🚀 Code • Learn • Build • Repeat
-</h3>
-
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  <b>🚀 Keep Coding. Keep Learning. Keep Building.</b>
 </p>
 
 <p align="center">
-  <b>Made with ❤️ from Nepal 🇳🇵</b>
+  Made with ❤️ by <b>Sanjay Lamichhane</b> 🇳🇵
 </p>
